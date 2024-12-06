@@ -1,0 +1,12 @@
+# ninja log v6
+1	1978	1733499346188535482	CMakeFiles/OpenCV_test.dir/main.cpp.o	a0b965b920250878
+1978	2349	1733499348165497903	OpenCV_test	edf7592671cb8a2d
+3	1969	1733482900860930903	CMakeFiles/OpenCV_test.dir/src/KNN.cpp.o	4ead767d8fb4d0c0
+2	17	1733399930581662722	CMakeFiles/OpenCV_test.dir/Light.cpp.o	80b7c0a9b49b0c4f
+2	1879	1733498539500390852	CMakeFiles/OpenCV_test.dir/src/Armor.cpp.o	f8cd2680b26da80e
+2	13	1733410082628026420	CMakeFiles/OpenCV_test.dir/K.cpp.o	fb275bd2c1b6099
+2	1906	1733498539500390852	CMakeFiles/OpenCV_test.dir/src/Light.cpp.o	65d182aba5508957
+2	1845	1733498754340859181	CMakeFiles/OpenCV_test.dir/src/Judge_Light.cpp.o	788077adc7cdde15
+2	1773	1733499401648566872	CMakeFiles/OpenCV_test.dir/src/Armor.cpp.o	f8cd2680b26da80e
+2	1824	1733499401648566872	CMakeFiles/OpenCV_test.dir/src/Judge_Light.cpp.o	788077adc7cdde15
+1824	2156	1733499403470537956	OpenCV_test	edf7592671cb8a2d
